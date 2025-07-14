@@ -1,3 +1,7 @@
+<p align="center">
+<img width="1536" height="343" alt="1" src="https://github.com/user-attachments/assets/36112782-5bea-4ae9-b3ec-6cef25c2de22" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Andrews Santiago</h1>
 
 <p align="center">
