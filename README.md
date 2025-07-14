@@ -8,7 +8,7 @@
 Backend Developer passionate about system architecture, high-performance APIs, and cloud solutions ☁️.
 </p>
 
----
+<br />
 
 ## 🚀 About Me
 
@@ -17,7 +17,7 @@ Backend Developer passionate about system architecture, high-performance APIs, a
 - 💡 Enthusiast of clean code practices, clean architecture, and building resilient systems
 - 🎯 Focused on delivering efficient, scalable solutions for high-traffic environments
 
----
+<br />
 
 ## 🛠️ Technologies & Tools
 
@@ -31,7 +31,7 @@ Backend Developer passionate about system architecture, high-performance APIs, a
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
+<br />
 
 ## 📊 GitHub Stats
 
@@ -40,7 +40,7 @@ Backend Developer passionate about system architecture, high-performance APIs, a
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrews-pd&layout=compact&theme=dracula" />
 </div>
 
----
+<br />
 
 ## 📈 Metrics
 
@@ -48,12 +48,10 @@ Backend Developer passionate about system architecture, high-performance APIs, a
   <img src="https://komarev.com/ghpvc/?username=andrews-pd&style=for-the-badge" alt="andrews-pd" />
 </p>
 
----
+<br />
 
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrews-santiago-8ab79155/)
-
----
 
 <p align="center">🚀 Let's build something great together!</p>
